@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "Angular2-SoundCloud-Comment-System",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "Features an interface where user can comment on particular second of the music which when plays.",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "docker-build": "docker build -t ng2-quickstart .",
