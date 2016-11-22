@@ -1,0 +1,19 @@
+.flat {
+  border-radius: 0;
+}
+
+.fa {
+  color: #CDDC39;
+}
+h1 {
+  color: #3F51B5;
+}
+.large {
+  font-size: 48px;
+}
+.medium {
+  font-size: 18px;
+}
+.small {
+  font-size: 10px;
+}

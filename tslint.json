@@ -60,25 +60,16 @@
     ],
     "quotemark": [
       true,
-      "single"
+      "double"
     ],
     "radix": true,
-    "semicolon": [
-      "always"
-    ],
+    "semicolon": ["always"],
     "triple-equals": [
       true,
       "allow-null-check"
     ],
     "typedef-whitespace": [
-      true,
-      {
-        "call-signature": "nospace",
-        "index-signature": "nospace",
-        "parameter": "nospace",
-        "property-declaration": "nospace",
-        "variable-declaration": "nospace"
-      }
+      true
     ],
     "variable-name": false,
     "whitespace": [
